@@ -13,3 +13,7 @@ export class AdditionComponent implements OnInit {
   }
 
 }
+
+export function addition(oper1:number, oper2:number) {
+  return oper1 + oper2;
+}
