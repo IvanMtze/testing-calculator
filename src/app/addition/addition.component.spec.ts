@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AdditionComponent } from './addition.component';
+import { addition, AdditionComponent } from './addition.component';
 
 describe('addition unit tests', () => {
 
