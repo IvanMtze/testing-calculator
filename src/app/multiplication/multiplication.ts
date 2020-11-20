@@ -1,4 +1,4 @@
-export function multiplication(oper1, oper2) {
+export function multiplication(oper1:number, oper2:number) {
 
   return oper1*oper2;
  // refactoring

@@ -1,7 +1,3 @@
-export function division(oper1, oper2) {
-
+export function division(oper1:number, oper2:number) {
   return oper1/oper2;
-  // refactoring
-  let div = oper1 / oper2;
-  return div;
 }
